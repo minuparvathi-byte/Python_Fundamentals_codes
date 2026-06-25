@@ -1,1 +1,1 @@
-# Python_Fundamentals_codes
+# student_registration_system
